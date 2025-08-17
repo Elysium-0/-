@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\bin\Debug\net8.0\Калькулятор.exe
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\bin\Debug\net8.0\Калькулятор.deps.json
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\bin\Debug\net8.0\Калькулятор.runtimeconfig.json
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\bin\Debug\net8.0\Калькулятор.dll
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\bin\Debug\net8.0\Калькулятор.pdb
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\obj\Debug\net8.0\Калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\obj\Debug\net8.0\Калькулятор.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\obj\Debug\net8.0\Калькулятор.AssemblyInfo.cs
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\obj\Debug\net8.0\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\obj\Debug\net8.0\Калькулятор.dll
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\obj\Debug\net8.0\refint\Калькулятор.dll
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\obj\Debug\net8.0\Калькулятор.pdb
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\obj\Debug\net8.0\Калькулятор.genruntimeconfig.cache
+C:\Users\пк\source\repos\Калькулятор\Калькулятор\obj\Debug\net8.0\ref\Калькулятор.dll
